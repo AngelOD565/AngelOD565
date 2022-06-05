@@ -1,4 +1,4 @@
-**Hi, my name is Angel Otero** 
+Hi, my name is Angel Otero 
 
 My experience so far has been working in Physics research projects
 
