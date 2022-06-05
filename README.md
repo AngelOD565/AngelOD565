@@ -1,5 +1,7 @@
 Hi, my name is Angel Otero 
 
+I am a recent graduate from the University of Central Florida where I got my BS in Physics.
+
 My experience so far has been working in Physics research projects
 
 I am interested in Data Science, particularly Machine Learning
