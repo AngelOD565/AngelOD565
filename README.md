@@ -2,11 +2,11 @@ Hi, my name is Angel Otero
 
 I am a recent graduate from the University of Central Florida where I got my BS in Physics.
 
-My experience so far has been working in Physics research projects
+My experience so far has been working in Physics research projects and independent Data Science Projects.
 
 I am interested in Data Science, particularly Machine Learning
 
-I am currently taking online coding bootcamps for Python to break into the fields of AI/ML and Data Analysis
+I am currently taking online Machine Learning courses to break into the fields of AI/ML and Data Analysis
 
 You can connect with me here on my LinkedIn: https://www.linkedin.com/in/angel-otero-diaz-447a79143/
 
